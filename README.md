@@ -1,110 +1,48 @@
-# 💫 About Me
+# Hi, I'm Ricardo 👋
 
 Backend Developer focused on building scalable and maintainable software.
 
-- 🏗️ Building a complete **ERP SaaS** from scratch
-- ⚙️ Passionate about **Software Architecture**, **DDD** and **Distributed Systems**
-- 📨 Working with **Event-Driven Architecture**, **RabbitMQ**, **Outbox Pattern** and **gRPC**
-- 🧪 Writing reliable software through **Unit** and **Integration Tests**
-- 🐧 Daily Linux user (Arch Linux)
-- 📚 Currently studying **Kubernetes**, **Microservices**, **System Design** and **Observability**
-- 🚀 Constantly improving code quality, performance and scalability
+Currently building an ERP SaaS with **NestJS**, **Prisma**, **RabbitMQ**, **Redis**, **DDD** and **Hexagonal Architecture**.
 
 ---
 
-# 💻 Tech Stack
+## 🚀 About
 
-### 🚀 Languages
+- 🏗️ Building a complete ERP SaaS from scratch
+- ⚙️ Passionate about Software Architecture and Distributed Systems
+- 📨 Working with Event-Driven Architecture, RabbitMQ and gRPC
+- 🧪 Writing reliable software through automated testing
+- 🐧 Arch Linux user
+- 📚 Currently learning Kubernetes and System Design
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
 
 TypeScript • JavaScript • C • PHP • SQL
 
-### ⚙️ Backend
+**Backend**
 
-NestJS • Node.js • Express • Prisma ORM
+NestJS • Node.js • Express • Prisma
 
-### 🗄️ Databases
+**Infrastructure**
 
-PostgreSQL • Redis
+PostgreSQL • Redis • RabbitMQ • Docker • Linux
 
-### 📨 Messaging
+**Architecture**
 
-RabbitMQ • gRPC
-
-### 🏛️ Architecture
-
-Domain-Driven Design (DDD)
-
-Hexagonal Architecture
-
-Clean Architecture
-
-Event-Driven Architecture
-
-Outbox Pattern
-
-Repository Pattern
-
-Result Pattern
-
-### 🧪 Testing
-
-Jest
-
-Unit Testing
-
-Integration Testing
-
-### ☁️ Infrastructure
-
-Docker
-
-Linux (Arch)
-
-Git
-
-GitHub
+DDD • Hexagonal • Clean Architecture • Outbox Pattern
 
 ---
 
-# 🚀 Current Project
+## 🎯 Current Focus
 
-### ERP SaaS
-
-A complete enterprise management platform built with scalability and maintainability as primary goals.
-
-### Current Features
-
-- Authentication
-- User Management
-- Email Verification
-- Event Bus
-- RabbitMQ Messaging
-- Outbox Pattern
-- Transaction Manager
-- Inventory
-- Sales
-- CRM
-- Finance
-
----
-
-# 📚 Currently Learning
-
-- Kubernetes
-- CQRS
+- ERP SaaS
 - Distributed Systems
-- Observability
-- High Performance APIs
-- System Design
-
----
-
-# 🎯 Goals
-
-- Build production-ready software
-- Deepen knowledge in distributed systems
-- Publish reusable open-source libraries
-- Become a Software Architect
+- Kubernetes
+- Microservices
 
 ---
 

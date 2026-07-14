@@ -108,13 +108,16 @@ A complete enterprise management platform built with scalability and maintainabi
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats-beta-three-74.vercel.app/api?username=RicardoMC310&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats-beta-three-74.vercel.app//api/top-langs/?username=RicardoMC310&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+</p>
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VitaoDeveloper&theme=tokyonight"/>
+</p> -->
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RicardoMC310&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMC310&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitaoDeveloper&theme=tokyo-night"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoMC310&theme=tokyo-night"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -52,7 +52,7 @@ DDD • Hexagonal • Clean Architecture • Outbox Pattern
   <img src="https://github-readme-stats-beta-three-74.vercel.app//api/top-langs/?username=RicardoMC310&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
 </p> -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VitaoDeveloper&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=RicardoMC310&theme=tokyonight"/>
 </p>
 
 <p align="center">

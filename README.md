@@ -109,13 +109,13 @@ A complete enterprise management platform built with scalability and maintainabi
 ---
 
 # 📊 GitHub Stats:
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-beta-three-74.vercel.app/api?username=RicardoMC310&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
   <img src="https://github-readme-stats-beta-three-74.vercel.app//api/top-langs/?username=RicardoMC310&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
-</p>
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VitaoDeveloper&theme=tokyonight"/>
 </p> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VitaoDeveloper&theme=tokyonight"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitaoDeveloper&theme=tokyo-night"/>

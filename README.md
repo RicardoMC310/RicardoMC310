@@ -47,10 +47,11 @@ DDD • Hexagonal • Clean Architecture • Outbox Pattern
 ---
 
 # 📊 GitHub Stats:
-<!-- <p align="center">
-  <img src="https://github-readme-stats-beta-three-74.vercel.app/api?username=RicardoMC310&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats-beta-three-74.vercel.app//api/top-langs/?username=RicardoMC310&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
-</p> -->
+<p align="center">
+  <img src="https://github-readme-stats-plum-phi-78.vercel.app/api?username=RicardoMC310&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats-plum-phi-78.vercel.app/api/top-langs/?username=RicardoMC310&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RicardoMC310&theme=tokyonight"/>
 </p>

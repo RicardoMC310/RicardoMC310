@@ -118,6 +118,6 @@ A complete enterprise management platform built with scalability and maintainabi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitaoDeveloper&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoMC310&theme=tokyo-night"/>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

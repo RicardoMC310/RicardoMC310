@@ -100,11 +100,9 @@
 
 <div data-importer="stats" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RicardoMC310&theme=tokyonight-duo&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoMC310&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoMC310&theme=github-dark&hide_border=true"/>
 </div>
 
 ###
 
-<picture data-importer="pacman">
-  <img alt="pacman contribution graph" src="https://abozanona.github.io/6d77b8c1-6cdf-48ff-9cc0-b915ec750a9b">
-</picture>
+![Pacman](acrade-contributions.svg)

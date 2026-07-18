@@ -99,17 +99,12 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=RicardoMC310&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/RicardoMC310/RicardoMC310/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/RicardoMC310/RicardoMC310/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RicardoMC310&theme=tokyonight-duo&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoMC310&theme=tokyo-night"/>
 </div>
 
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoMC310/RicardoMC310/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardoMC310/RicardoMC310/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RicardoMC310/RicardoMC310/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://abozanona.github.io/6d77b8c1-6cdf-48ff-9cc0-b915ec750a9b">
 </picture>
-
-###
